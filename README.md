@@ -1,7 +1,8 @@
 # Crime Analysis Insights
 
 ## 1. Crime Trends Over Time
-![Alt Text](Graphs/crimes on years%20Graph.png)
+![Alt Text](Graphs/crimes%20on%20years.png)
+
 
 - The dataset spans from 2001 to the present year (2023).
 - A notable decrease in reported crimes is observed over the years.
