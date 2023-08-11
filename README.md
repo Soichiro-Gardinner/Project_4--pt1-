@@ -13,6 +13,7 @@
 - District 21 has the lowest reported crime count.
 
 ## 3. AM vs. PM Rush Hour Analysis
+![Alt Text](Graphs/rush.png)
 
 - PM rush hours (4 PM - 7 PM) have higher crime rates compared to AM rush hours (7 AM - 10 AM).
 - Top 5 crimes during AM rush hour: Theft, Battery, Criminal Damage, Burglary, Other Offenses.
