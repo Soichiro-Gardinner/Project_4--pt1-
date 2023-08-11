@@ -1,13 +1,13 @@
 # Crime Analysis Insights
 
 ## 1. Crime Trends Over Time
-![Alt Text](Graphs/Crimes%20Graph.png)
+![Alt Text](Graphs/crimes on years%20Graph.png)
 
 - The dataset spans from 2001 to the present year (2023).
 - A notable decrease in reported crimes is observed over the years.
 
 ## 2. District Comparison
-
+![Alt Text](Graphs/Crimes%20Graph.png)
 - District 8 has the highest reported crime count.
 - District 21 has the lowest reported crime count.
 
