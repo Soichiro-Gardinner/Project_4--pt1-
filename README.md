@@ -1,16 +1,14 @@
 # Crime Analysis Insights
 
 ## 1. Crime Trends Over Time
-<p align="center">
-  <img src="C:\Users\casta\OneDrive\Pictures\crimes on years.png" alt="Alt Text" width="400">
-</p>
+![Alt Text](Graphs/crimes%20on%20years.png)
 
 
 - The dataset spans from 2001 to the present year (2023).
 - A notable decrease in reported crimes is observed over the years.
 
 ## 2. District Comparison
-
+![Alt Text](Graphs/Crimes%20Graph.png)
 - District 8 has the highest reported crime count.
 - District 21 has the lowest reported crime count.
 
@@ -27,7 +25,7 @@
 - February has the least crime count.
 
 ## 5. Holiday Impact on Crime
-
+![Alt Text](Graphs/holydays.png)
 - Analysis using the 'holidays' package shows varying trends during holidays.
 - Increased crime counts on certain holidays may be due to gatherings and altered routines.
 - Decreased crime counts on other holidays could result from increased police presence or community vigilance.
