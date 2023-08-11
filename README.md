@@ -25,7 +25,7 @@
 - February has the least crime count.
 
 ## 5. Holiday Impact on Crime
-
+![Alt Text](Graphs/holydays.png)
 - Analysis using the 'holidays' package shows varying trends during holidays.
 - Increased crime counts on certain holidays may be due to gatherings and altered routines.
 - Decreased crime counts on other holidays could result from increased police presence or community vigilance.
